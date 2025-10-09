@@ -38,5 +38,14 @@ This pipeline implements a **3-layer Medallion Architecture**:
   - YAML configurations and Jinja templating  
   - Data lineage and automated testing  
 - **Interactive Analytics**: SQL queries and visualizations in Databricks  
-- **Production-Ready**: Serverless compute, error handling, and monitoring capabilities  
+- **Production-Ready**: Serverless compute, error handling, and monitoring capabilities
+
+## 🏗️ Bronze Layer
+![Data loading](images/bronze.png)
+
+
+## 🏗️ Silver Layer
+![Data Cleaning](images/silver_cleaning_1.png)
+
+## 🏗️ Gold Layer
 
