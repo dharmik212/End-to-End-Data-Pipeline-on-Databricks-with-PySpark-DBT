@@ -44,15 +44,19 @@ This pipeline implements a **3-layer Medallion Architecture**:
 ![Data loading](images/bronze.png)
 
 
-## 🏗️ Silver Layer
+## 🏗️ Silver Layer Cleaning and Transformation
 ![Data Cleaning](images/silver_cleaning_1.png)
+
+<img src="images/silver_cleaning_1.png" alt="Bronze Layer Data Loading" width="600"/>
+
+
 ![Data Cleaning2](images/silver_cleaning_2.png)
 
 ##DBT 
 ![DBT_Jinja](images/dbt_jinja.png)
 ![Data SCD](images/dbt_SCD.png)
 
-## 🏗️ Gold Layer
+## 🏗️ Gold Layer Analysis
 ![Data SCD](images/gold_analysis_1.png)
 ![Data SCD](images/gold_analysis_2.png)
 ![Data SCD](images/gold_analysis_3.png)
