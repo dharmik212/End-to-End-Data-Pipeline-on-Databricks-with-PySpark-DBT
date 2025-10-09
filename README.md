@@ -23,7 +23,7 @@ This pipeline implements a **3-layer Medallion Architecture**:
 2. **Silver Layer**: Data cleaning, transformation, and quality checks using Databricks notebooks  
 3. **Gold Layer**: Analytics-ready dimensional modeling with DBT (SCD Type 2, snapshots, incremental models)  
 
-![Architecture Diagram](images/architecture.png)
+![Architecture Diagram](images/architecture.img)
 
 ---
 
