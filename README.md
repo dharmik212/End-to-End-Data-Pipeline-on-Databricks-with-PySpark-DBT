@@ -1,4 +1,4 @@
-# 🚀 End-to-End Data Engineering Pipeline with PySpark & DBT on Databricks
+# End-to-End Data Engineering Pipeline with PySpark & DBT on Databricks
 
 This project implements a production-grade data engineering pipeline using **Databricks**, **PySpark**, **Delta Lake**, and **DBT**, following modern data engineering best practices with the Medallion Architecture.
 
