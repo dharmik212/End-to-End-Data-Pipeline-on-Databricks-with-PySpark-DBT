@@ -40,7 +40,3 @@ This pipeline implements a **3-layer Medallion Architecture**:
 - **Interactive Analytics**: SQL queries and visualizations in Databricks  
 - **Production-Ready**: Serverless compute, error handling, and monitoring capabilities  
 
----
-
-## 📁 Project Structure
-
