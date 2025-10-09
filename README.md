@@ -40,19 +40,19 @@ This pipeline implements a **3-layer Medallion Architecture**:
 - **Interactive Analytics**: SQL queries and visualizations in Databricks  
 - **Production-Ready**: Serverless compute, error handling, and monitoring capabilities
 
-## 🏗️ Bronze Layer
+## 🥉 Bronze Layer
 ![Data loading](images/bronze.png)
 
 
-## 🏗️ Silver Layer Cleaning and Transformation
+## 🥈 Silver Layer Cleaning and Transformation
 ![Data Cleaning](images/silver_cleaning_1.png)
 ![Data Cleaning2](images/silver_cleaning_2.png)
 
-##DBT 
+## 🛠️ DBT 
 ![DBT_Jinja](images/dbt_jinja.png)
 ![Data SCD](images/dbt_SCD.png)
 
-## 🏗️ Gold Layer Analysis
+## 🥇 Gold Layer Analysis
 ![Data SCD](images/gold_analysis_1.png)
 ![Data SCD](images/gold_analysis_2.png)
 ![Data SCD](images/gold_analysis_3.png)
